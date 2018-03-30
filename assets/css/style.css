@@ -1,0 +1,17 @@
+body {
+    background: url("../images/Background.jpg");
+    background-size: 3000px 3000px;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: white;
+    font-size: 80px;
+    font-family: 'Chicle', cursive;
+
+}
+p {
+    color: white;
+    font-size: 25px;  
+
+}

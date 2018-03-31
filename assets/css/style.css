@@ -1,7 +1,9 @@
 body {
     background: url("../images/Background.jpg");
-    background-size: 3000px 3000px;
+    background-size: 4000px 4000px;
     background-repeat: no-repeat;
+    line-height: 60px;
+    margin: 20px;
 }
 
 h2 {
@@ -12,6 +14,6 @@ h2 {
 }
 p {
     color: white;
-    font-size: 25px;  
+    font-size: 30px;  
 
 }

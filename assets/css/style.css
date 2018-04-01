@@ -1,9 +1,11 @@
 body {
     background: url("../images/Background.jpg");
-    background-size: 4000px 4000px;
+    background-size: 6000px 6000px;
     background-repeat: no-repeat;
     line-height: 60px;
-    margin: 20px;
+    margin: 70px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
 }
 
 h2 {

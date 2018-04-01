@@ -38,11 +38,12 @@ document.onkeyup = function(event){
         } 
         //If User uses up all of the guesses
         else if (guessesLeft === 1) {
-            alert("Nice Try!");
+            alert("AWWWW....TRY AGAIN!");
             losses++;
             guessesLeft=9;
             yourGuessesSoFar.length = 0;
             compGuess = newGuess();
+
         }
         //If User does not guess correct
         else if (userGuess !== compGuess) {
